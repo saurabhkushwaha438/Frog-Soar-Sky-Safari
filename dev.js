@@ -165,4 +165,8 @@ canvas.addEventListener('touchstart', () => {
     keys.space.pressed = true;
 });
 
+canvas.addEventListener('touchend', () => {
+    keys.space.pressed = false;
+});
+
 animate()
