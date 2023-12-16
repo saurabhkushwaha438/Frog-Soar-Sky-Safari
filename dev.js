@@ -6,7 +6,7 @@ canvas.height =window.innerHeight
 
 
 
-const gravity  = 0.3   
+const gravity  = 0.2   
 let i
 let score  = 0
 
